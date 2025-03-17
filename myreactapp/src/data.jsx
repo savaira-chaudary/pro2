@@ -2,7 +2,7 @@
 export const users = [
     {
       id: 1,
-      name: "Ali",
+      name: "Alli",
       email: "ali@example.com",
       contact: "1234567890",
       image: "https://randomuser.me/api/portraits/men/1.jpg"
